@@ -6,13 +6,13 @@ This vault contains study notes, assignments, labs, and projects organized by cl
 
 ## Classes
 
-- [Physics](./Physics/) - Core physics coursework and concepts
-- [Data-Science](./Data-Science/) - Data science minor classes and projects
-- [Math-Engineering](./Math-Engineering/) - Mathematical concepts for engineering certificate
+- [Physics](./Physics/README.md) - Core physics coursework and concepts
+- [Data-Science](./Data-Science/README.md) - Data science minor classes and projects
+- [Math-Engineering](./Math-Engineering/README.md) - Mathematical concepts for engineering certificate
 
 ## Projects
 
-- [Projects](./Projects/) - Overarching projects and portfolio pieces that span multiple classes
+- [Projects](./Projects/README.md) - Overarching projects and portfolio pieces that span multiple classes
 
 ## How This Works
 
