@@ -16,3 +16,14 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Markdown linting
+.markdownlint.json
+
+# Python type checking
+.mypy_cache
+
+# AI Agent state and logs
+AGENTS.md
+.agents/
+agent_logs/

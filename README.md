@@ -8,7 +8,7 @@ This vault contains study notes, assignments, labs, and projects organized by cl
 
 - [Physics](./Physics/README.md) - Core physics coursework and concepts
 - [Data-Science](./Data-Science/README.md) - Data science minor classes and projects
-- [Math-Engineering](./Math-Engineering/README.md) - Mathematical concepts for engineering certificate
+- [Math and Engineering](./Math-Engineering/README.md) - Mathematical concepts for engineering certificate
 
 ## Projects
 
@@ -17,6 +17,7 @@ This vault contains study notes, assignments, labs, and projects organized by cl
 ## How This Works
 
 Each class follows this structure:
+
 - **README.md**: Landing page with overview, syllabus links, and progress
 - **Study notes**: Detailed technical notes from lectures and labs
 - **Assignments/Projects**: Individual work and group projects
@@ -24,6 +25,7 @@ Each class follows this structure:
 All content is version controlled and synced across my devices via iCloud and Git.
 
 ## Program Details
+
 - **Institution**: Arizona State University (ASU Online)
 - **Degree**: Bachelor of Science in Physics
 - **Minor**: Data Science
