@@ -8,6 +8,8 @@ This folder contains notes, assignments, and projects for data science classes.
 
 ## Current Classes
 
+- [DAT 250 - Data Science and Society](./data_science_and_society.md)
+
 ## Resources
 
 - ASU Data Science: [link]

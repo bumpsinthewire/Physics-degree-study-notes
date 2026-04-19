@@ -22,7 +22,7 @@ Each class follows this structure:
 - **Study notes**: Detailed technical notes from lectures and labs
 - **Assignments/Projects**: Individual work and group projects
 
-All content is version controlled and synced across my devices via iCloud, Obsidian, and Git.
+All content is version controlled and synced across my devices via iCloud, Git, and Obsidian. All notes are written in markdown.
 
 ## Program Details
 
