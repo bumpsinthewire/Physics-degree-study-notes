@@ -1,8 +1,8 @@
 ---
 title: "{{title}}"
 date: "{{date}}"
-class: "{{class}}"
-tags: [asu, {{class | lower}}]
+class: "class number"
+tags: [asu, data-science]
 type: study_notes
 ---
 
@@ -31,3 +31,7 @@ type: study_notes
 ## Next Steps
 
 *(What to explore next, upcoming assignments)*
+
+### Parent Note
+
+- [Data Science area](./README.md)

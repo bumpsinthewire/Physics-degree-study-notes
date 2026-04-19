@@ -2,9 +2,9 @@
 
 My comprehensive journey through Arizona State University's online BS in Physics program, with a minor in Data Science and Certificate in Mathematical Concepts of Engineering.
 
-This vault contains study notes, assignments, labs, and projects organized by class. Each major class has its own folder with a landing page (README) that provides an overview and links to detailed notes and projects.
+This vault contains study notes, assignments, labs, and projects organized by area. Each area has its own folder with a landing page (README) that provides an overview and links to detailed notes and projects.
 
-## Classes
+## Area
 
 - [Physics](./Physics/README.md) - Core physics coursework and concepts
 - [Data Science](./Data-Science/README.md) - Data science minor classes and projects

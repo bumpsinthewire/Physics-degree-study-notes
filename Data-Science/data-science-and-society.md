@@ -1,12 +1,12 @@
 ---
-title: "data_science_and_society"
+title: "data-science-and-society"
 date: "2026-04-19"
 class: "DAT250"
-tags: [asu, {{class | lower}}]
+tags: [asu, data-science]
 type: study_notes
 ---
 
-# data_science_and_society
+# data-science-and-society
 
 ## Key Concepts
 
@@ -31,3 +31,7 @@ type: study_notes
 ## Next Steps
 
 *(What to explore next, upcoming assignments)*
+
+### Parent Note
+
+- [Data Science area](./README.md)
